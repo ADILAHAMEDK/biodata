@@ -1,0 +1,594 @@
+input {
+    border-top-style: none;
+    border-left-style: none;
+    border-right-style: none;
+}
+
+.main-div {
+    margin: 10px;
+}
+
+.biodata-heading {
+    font-size: 350%;
+    font-weight: bolder;
+    margin-left: 250px;
+    font-family: arial;
+}
+
+.photo-frame {
+    height: 80px;
+    width: 90px;
+    border: 1px solid black;
+    margin-left: 659px;
+    margin-top: -60px;
+}
+
+.black-rectangle-1 {
+    height: 24px;
+    width: 751px;
+    background-color: black;
+    margin-top: -5px;
+    border-radius: 5px;
+}
+
+.heading-text-1 {
+    color: white;
+    padding: 6px;
+    font-size: x-small;
+    margin-left: 4px;
+}
+
+.rectangle-border-1 {
+    height: 395px;
+    width: 750px;
+    border: 1px solid black;
+    margin-top: 5px;
+    border-radius: 5px;  
+}
+
+.rectangle-border-1-form-padding {
+    padding: 8px;
+}
+
+.position-desired-dot {
+    margin-left: 15px;
+}
+
+.position-desired-width { 
+    width: 290px;  
+}
+
+.date-width {
+    width: 170px;
+}
+
+.date-dot {
+    margin-left: 85px;
+}
+
+.double-dot-1 {
+    margin-left: 10px;
+}
+
+.double-dot-2 {
+    margin-left: 68px;
+}
+
+.name-form-margin-left {
+    margin-left: 83px;
+}
+
+.name-input-width {
+    width: 290px;
+
+}
+
+.gender-width {
+    width: 170px;
+}
+
+.gender-dot {
+    margin-left: 68px;
+}
+
+.city-address-dot {
+    margin-left: 38px;
+}
+
+.city-address-input-width {
+    width: 596px;
+}
+
+.provincial-address-width {
+    width: 597px;
+}
+
+.telephone-dot {
+    margin-left: 54px;
+}
+
+.telephone-input-width {
+    width: 291px;
+}
+
+.cellphone-dot {
+    margin-left: 50px;
+}
+
+.cellphone-input-width {
+    width: 169px;
+}
+
+.email-dot {
+    margin-left: 22px;
+}
+
+.email-width {
+    width: 291px;
+}
+
+.empty-dot {
+    margin-left: 119px;
+}
+
+.empty-width {
+    width: 169px;
+}
+
+.date-of-birth-dot {
+    margin-left: 33px;
+}
+
+.date-of-birth-width {
+    width: 291px;
+}
+
+.birth-of-place-dot {
+    margin-left: 23px;
+}
+
+.birth-of-place-width {
+    width: 169px;
+}
+
+.civil-status-dot {
+    margin-left: 46px;
+}
+
+.civil-status-width {
+    width: 291px;
+}
+
+.citizenship-dot {
+    margin-left: 42px;
+}
+
+.citizenship-width {
+    width: 169px;
+}
+
+.height-dot {
+    margin-left: 77px;
+}
+
+.height-width {
+    width: 291px;
+}
+
+.weight-dot {
+    margin-left: 70px;
+}
+
+.weight-width {
+    width: 169px;
+}
+
+.religion-dot {
+    margin-left: 65px;
+}
+
+.religion-width {
+    width: 292px;
+}
+
+.spouse-dot {
+    margin-left: 74px;
+}
+
+.spouse-width {
+    width: 291px;
+}
+
+.occupation-dot {
+    margin-left: 42px;
+}
+
+.occupation-width {
+    width: 169px;
+}
+
+.name-of-children-dot {
+    margin-left: 1px;
+}
+
+.name-of-childern-width {
+    width: 291px;
+}
+
+.date-of-birth-2-dot {
+    margin-left: 29px;
+} 
+
+.date-of-birth-2-width {
+    width: 168px;
+}
+
+.empty-2-dot {
+    margin-left: 124px;
+}
+
+.empty-2-width {
+    width: 291px;
+} 
+
+.empty-3-dot {
+    margin-left: 121px;
+}
+
+.empty-3-width {
+    width: 168px;
+}
+
+.empty-4-dot {
+    margin-left: 124px;
+}
+
+.empty-4-width {
+    width: 291px;
+} 
+
+.empty-5-dot {
+    margin-left: 121px;
+}
+
+.empty-5-width {
+    width: 168px;
+}
+
+.fathers-name-dot {
+    margin-left: 28px;
+}
+
+.fathers-name-width {
+    width: 291px;
+}
+
+.occupation-2-dot {
+    margin-left: 43px;
+}
+
+.occupation-2-width {
+    width: 169px;
+}
+
+.mothers-name-dot {
+    margin-left: 22px;
+}
+
+.mothers-name-width {
+    width: 291px;
+}
+
+.occupation-3-dot {
+    margin-left: 43px;
+}
+
+.occupation-3-width {
+    width: 168px;
+}
+
+.language-or-dialect-spoken-and-written-width {
+    width: 464px;
+}
+
+.person-to-be-contacted-in-case-of-emergency-width {
+    width: 433px;
+}
+
+.his-or-her-address-and-telephone {
+    width: 507px;
+}
+
+.black-rectangle-2 {
+    height: 24px;
+    width: 751px;
+    background-color: black;
+    margin-top: -12px;
+    margin-left: 1px;
+    border-radius: 5px;  
+}
+
+.heading-text-2 {
+    padding: 7px;
+    color: white;
+    font-size: x-small;
+}
+
+.rectangle-border-2 {
+    height: 118px;
+    width: 750px;
+    border: 1px solid black;
+    margin-top: -12px;
+    border-radius: 5px;  
+}
+
+.rectangle-border-2-padding{
+    padding: 8px;
+}
+
+.elementary-dot {
+    margin-left: 44px;
+}
+
+.elementary-width {
+    width: 291px;
+}
+
+.year-Graduacted-dot {
+    margin-left: 16px;
+}
+
+.year-Graduacted-width {
+    width: 164px;
+}
+
+.high-school-dot {
+    margin-left: 37px;
+}
+
+.high-school-width {
+    width: 291px;
+}
+
+.year-graduacted-dot-2 {
+    margin-left: 16px;
+}
+
+.year-graduacted-width {
+    width: 163px;
+}
+
+.colloge-dot {
+    margin-left: 67px;
+}
+
+.colloge-width {
+    width: 291px;
+}
+
+.year-graduacted-3 {
+    margin-left: 16px;
+}
+
+.year-graduacted-3-width {
+    width: 163px;
+}
+
+.degree-received-dot {
+    margin-left: 8px;
+}
+
+.degree-received-width {
+    width: 598px;
+}
+
+.special-skills-dot {
+    margin-left: 30px;
+}
+
+.special-skills-width {
+    width: 597px;
+}
+
+.black-rectangle-3 {
+    height: 24px;
+    width: 751px;
+    background-color: black;
+    margin-top: 130px;
+    margin-left: 2px;
+    border-radius: 5px;  
+}
+
+.heading-text-3 {
+    padding: 7px;
+    color: white;
+    font-size: x-small;
+}
+
+.rectangle-border-3 {
+    height: 118px;
+    width: 750px;
+    border: 1px solid black;
+    margin-top: -12px;
+    border-radius: 5px;  
+}
+
+.rectangle-border-3-padding{
+    padding: 8px;
+}
+
+.company-name-dot {
+    margin-left: 13px;
+}
+
+.company-name-width {
+    width: 597px;
+}
+
+.position-dot {
+    margin-left: 65px;
+}
+
+.position-width {
+    width: 291px;
+}
+
+.from-dot {
+    margin-left: 0px;
+}
+
+.from-width {
+    width: 107px;
+}
+
+.to-dot {
+    margin-left: 0px;
+}
+
+.to-width {
+    width: 107px;
+}
+
+.black-rectangle-4 {
+    height: 24px;
+    width: 751px;
+    background-color: black;
+    margin-top: 129px;
+    margin-left: 2px;
+    border-radius: 5px;  
+}
+
+.heading-text-4 {
+    padding: 7px;
+    color: white;
+    font-size: x-small;
+}
+
+.rectangle-border-4 {
+    height: 118px;
+    width: 750px;
+    border: 1px solid black;
+    margin-top: -12px;
+    border-radius: 5px;  
+}
+
+.rectangle-border-4-padding{
+    padding: 8px;
+}
+
+.name-2-dot {
+    margin-left: 80px;
+}
+
+.name-2-wide {
+    width: 291px;
+}
+
+.company-dot {
+    margin-left: 61px;
+}
+
+.company-width {
+    width: 161px;
+}
+
+.position-3-dot {
+    margin-left: 66px;
+}
+
+.position-3-width {
+    width: 291px;
+}
+
+.contact-no-dot {
+    margin-left: 50px;
+}
+
+.contact-no-width {
+    width: 160px;
+}
+
+.rectangle-border-5 {
+    height: 155px;
+    width: 376px;
+    border: 1px solid black;
+    margin-top: 131px;
+    margin-left: 3px;
+    border-radius: 5px;  
+}
+
+.rectangle-border-5-padding{
+    padding: 8px;
+}
+
+.res-cert-no-dot {
+    margin-left: 38px;
+}
+
+.res-cert-no-width {
+    width: 225px;
+}
+
+.issued-at-dot {
+    margin-left: 61px;
+}
+
+.issued-at-width {
+    width: 225px;
+}
+
+.issued-on-dot {
+    margin-left: 56px;
+}
+
+.issued-on-width {
+    width: 225px;
+}
+
+.sss-dot {
+    margin-left: 90px;
+}
+
+.sss-width {
+    width: 225px;
+}
+
+.tin-dot {
+    margin-left: 90px;
+}
+
+.tin-width {
+    width: 225px;
+}
+
+.nbi-no-dot {
+    margin-left: 62px;
+}
+
+.nbi-no-width {
+    width: 225px;
+}
+
+.passport-no-dot {
+    margin-left: 39px;
+}
+
+.passport-no-width {
+    width: 225px;
+}
+
+.paragraph {
+    margin-left: 410px;
+    margin-top: -150px;
+}
+
+.line {
+    margin-left: 420px;
+    width: 310px;
+}
+
+.signature {
+    margin-left: 537px;
+}
+
+
